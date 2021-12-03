@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   favicon: 'https://stackb.github.io/bazel-stack-vscode/logos/stack-build.png',
   organizationName: 'stackb', // Usually your GitHub org/user name.
-  projectName: 'stack.build', // Usually your repo name.
+  projectName: 'stackb.github.io', // Usually your repo name.
   themeConfig: {
     defaultMode: 'light',
     navbar: {
