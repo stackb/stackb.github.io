@@ -51,6 +51,12 @@ Hover over flags in a `.bazelrc` file to get flag documentation:
 Click on the provided link to go to the bazel docs, or perform a codesearch for
 the flag in https://cs.opensource.google/bazel/bazel.
 
+## Signature Help
+
+[Signature help](https://www.youtube.com/watch?v=vi2PLcLqVxI) (aka "Parameter Hints") are available for rules and starlark functions.
+
+
+
 ## Completion
 
 Type to get autocompletion for builtin rules:
