@@ -1,6 +1,6 @@
 ---
 id: starlark-language-server
-title: Starlark Language Server
+title: Starlark Language Server?
 ---
 
 The Starlark Language Server component provides intellisense features for `BUILD`, `BUILD.bazel`, `WORKSPACE`, `*.bzl` and related files.
@@ -53,9 +53,10 @@ the flag in https://cs.opensource.google/bazel/bazel.
 
 ## Signature Help
 
-[Signature help](https://www.youtube.com/watch?v=vi2PLcLqVxI) (aka "Parameter Hints") are available for rules and starlark functions.
+[Signature help](https://www.youtube.com/watch?v=vi2PLcLqVxI) (aka "Parameter
+Hints") are available for rules and starlark functions:
 
-
+![image](https://user-images.githubusercontent.com/50580/145118530-26cbfa5a-33de-4988-961d-8e1e9eb89803.png)
 
 ## Completion
 
@@ -70,8 +71,8 @@ files within your repo, or an external repository) is a subscription feature.
 
 ![image](https://user-images.githubusercontent.com/50580/142479223-e1c9161c-ced8-4c2f-a0eb-998e802a5468.gif)
 
-Add attributes at the end of the rule to get autocompletion for rule attributes.
-
+Use `ctrl+space` within the context of a rule/function to get completion
+suggestions without typing.
 
 Type `""` in a load statement to get autocompletion of available load symbols:
 
