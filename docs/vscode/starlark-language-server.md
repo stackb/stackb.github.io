@@ -1,6 +1,6 @@
 ---
 id: starlark-language-server
-title: Starlark Language Server?
+title: Starlark Language Server
 ---
 
 The Starlark Language Server component provides intellisense features for `BUILD`, `BUILD.bazel`, `WORKSPACE`, `*.bzl` and related files.
