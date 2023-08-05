@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://docs.stack.build',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'https://stackb.github.io/bazel-stack-vscode/logos/stack-build.png',
+  favicon: 'https://github.com/stackb.png',
   organizationName: 'stackb', // Usually your GitHub org/user name.
   projectName: 'stackb.github.io', // Usually your repo name.
   themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
       title: 'Home',
       logo: {
         alt: 'Documentation',
-        src: 'https://stackb.github.io/bazel-stack-vscode/logos/stack-build.png',
+        src: 'https://github.com/stackb.png',
       },
       items: [
         {
